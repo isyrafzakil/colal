@@ -1,4 +1,6 @@
 # Colal API
+This is the API for Columbus Halal. 
+
 I built this API when learning Udemy Full Stack Web Development course. The technologies that I used when building this API
 were:
 1. Postman: For testing the API as a client.
